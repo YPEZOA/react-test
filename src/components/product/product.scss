@@ -1,0 +1,20 @@
+.product-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 5px 5px 8px #cccc;
+  .footer-buttons {
+    .product-amount {
+      width: 50%;
+      text-align: center;
+    }
+    .decrement {
+      background-color: #47aaff;
+      border: none;
+    }
+    .increment {
+      background-color: #47aaff;
+      border: none;
+    }
+  }
+}

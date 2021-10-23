@@ -1,0 +1,52 @@
+{
+    "products": [
+          {
+                  "id": 0,
+                  "name": "Iphone",
+                  "price": "520990",
+                  "photo": "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                },
+          {
+                  "id": 1,
+                  "name": "Control Playstation 4",
+                  "price": "35990",
+                  "photo": "https://images.pexels.com/photos/2520829/pexels-photo-2520829.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+                },
+          {
+                  "id": 2,
+                  "name": "Macbook Pro 15.4",
+                  "price": "1860990",
+                  "photo": "https://images.pexels.com/photos/191158/pexels-photo-191158.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+                },
+          {
+                  "id": 3,
+                  "name": "Pack Sillas + Mesa",
+                  "price": "80590",
+                  "photo": "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+                },
+          {
+                  "id": 4,
+                  "name": "Camara Minolta",
+                  "price": "350990",
+                  "photo": "https://images.pexels.com/photos/122400/pexels-photo-122400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                },
+          {
+                  "id": 5,
+                  "name": "Audifonos K240",
+                  "price": "245990",
+                  "photo": "https://images.pexels.com/photos/205926/pexels-photo-205926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                },
+          {
+                  "id": 6,
+                  "name": "Lentes Gunnar",
+                  "price": "82990",
+                  "photo": "https://images.pexels.com/photos/131018/pexels-photo-131018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                },
+          {
+                  "id": 7,
+                  "name": "Coca cola",
+                  "price": "200",
+                  "photo": "https://images.pexels.com/photos/2668308/pexels-photo-2668308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                }
+        ]
+  }
